@@ -1,0 +1,9 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,150
+0.0, Gender, 2
+0.0, Race, 6
+0.0, Ethnicity, 1
+0.0, Age, 62.977306705259934
+0, C19_TEST, 0
+0, WBC_NUM, 1

@@ -1,0 +1,35 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,40
+0.0, Gender, 0
+0.0, Race, 2
+0.0, Ethnicity, 2
+0.0, Age, 36.45749503529437
+0, Myocardial infarction, 1.0
+35.30010758632193, Hemiplegia or paraplegia, 1.0
+51.422759634858345, Diabetes with complications, 1.0
+55.14625120776892, Metastatic solid tumor, 1.0
+55.14625120776892, D-Dimer DDU, 2
+55.14625120776892, Peripheral vascular disease, 1.0
+55.14625120776892, Myocardial infarction, 1.0
+55.14625120776892, D-Dimer, 1
+55.14625120776892, FLU_TEST, 2
+55.14625120776892, D-Dimer, 0
+55.14625120776892, ALB_SER, 2
+64.3556145786716, FIBR, 2
+64.3556145786716, D-Dimer, 2
+74.57533130239116, CK, 1
+95.12439400751241, Peripheral vascular disease, 1.0
+110.31036889027932, Diabetes with complications, 1.0
+110.31036889027932, BUN, 2
+110.31036889027932, Chronic pulmonary disease, 1.0
+112.9115690142895, BIL_TOT, 1
+112.9115690142895, aPTT, 1
+112.9115690142895, PROT_TOT, 2
+112.9115690142895, Metastatic solid tumor, 1.0
+137.41765876509024, Peripheral vascular disease, 1.0
+176.37104626672, LYMPH_NUM, 2
+178.6259739480046, Metastatic solid tumor, 1.0
+212.2873149420562, Chronic pulmonary disease, 1.0
+212.2873149420562, Mild liver disease, 1.0
+254.09072833002452, D-Dimer FEU, 1

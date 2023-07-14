@@ -1,0 +1,22 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,261
+0.0, Gender, 1
+0.0, Race, 2
+0.0, Ethnicity, 0
+0.0, Age, 13.127962008880758
+0, Diabetes with complications, 1.0
+0, ESR, 1
+7.43829619767164, Metastatic solid tumor, 1.0
+7.43829619767164, Diabetes without complications, 1.0
+7.43829619767164, FERR, 0
+30.766562512102443, AIDS/HIV, 1.0
+36.387003549980925, FLU_TEST, 2
+36.387003549980925, D-Dimer FEU, 1
+36.387003549980925, FLU_TEST, 0
+38.40808624668323, Dementia, 1.0
+80.51972293661179, Troponin I, 0
+97.94723617369961, Any malignancy, 1.0
+97.94723617369961, CK, 1
+97.94723617369961, Mild liver disease, 1.0
+97.94723617369961, Renal disease, 1.0

@@ -1,0 +1,12 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,723
+0.0, Gender, 1
+0.0, Race, 4
+0.0, Ethnicity, 0
+0.0, Age, 76.88868187577688
+0, HCT, 0
+0, ALKP, 2
+0, LYMPH_NUM, 1
+0, Metastatic solid tumor, 1.0
+0, D-Dimer DDU, 1

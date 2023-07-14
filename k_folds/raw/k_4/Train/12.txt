@@ -1,0 +1,14 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,12
+0.0, Gender, 2
+0.0, Race, 6
+0.0, Ethnicity, 0
+0.0, Age, 30.67788135583075
+48.409895284080626, Rheumatic disease, 1.0
+48.62165908295076, LYMPH_PERC, 1
+48.62165908295076, Peripheral vascular disease, 1.0
+48.62165908295076, ALT, 0
+54.34597209607348, D-Dimer FEU, 2
+62.40667796709071, CREAT, 2
+62.40667796709071, Hemiplegia or paraplegia, 1.0

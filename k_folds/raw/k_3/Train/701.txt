@@ -1,0 +1,13 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,701
+0.0, Gender, 2
+0.0, Race, 5
+0.0, Ethnicity, 0
+0.0, Age, 25.411924610413887
+0, ALKP, 0
+43.07931981619945, Renal disease, 1.0
+87.80871207494161, BUN, 1
+87.80871207494161, Metastatic solid tumor, 1.0
+87.80871207494161, CREAT, 1
+106.78760732047832, Hemiplegia or paraplegia, 1.0

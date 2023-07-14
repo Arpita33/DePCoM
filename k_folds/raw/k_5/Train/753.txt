@@ -1,0 +1,11 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,753
+0.0, Gender, 2
+0.0, Race, 0
+0.0, Ethnicity, 0
+0.0, Age, 39.68456943645009
+37.50292187432148, D-Dimer DDU, 0
+80.99234054263661, LAC_SER, 1
+80.99234054263661, IL6, 0
+91.78126037218725, Cerebrovascular disease, 1.0

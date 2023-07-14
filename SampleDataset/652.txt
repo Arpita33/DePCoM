@@ -1,0 +1,32 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,652
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 0
+0.0, Age, 27.159813693038934
+0, AST, 0
+0, C19_TEST, 2
+0, AIDS/HIV, 1.0
+0, Rheumatic disease, 1.0
+0, Diabetes with complications, 1.0
+0, FIBR, 0
+44.08293656776704, Metastatic solid tumor, 1.0
+44.08293656776704, Troponin T, 0
+65.23510761821223, WBC_NUM, 2
+96.26674457980577, Diabetes without complications, 1.0
+97.64222095925577, aPTT, 1
+127.32777340326209, ALKP, 0
+161.2270926512764, PROT_TOT, 2
+161.2270926512764, BIL_TOT, 1
+161.2270926512764, Hemiplegia or paraplegia, 1.0
+161.2270926512764, Metastatic solid tumor, 1.0
+190.38759384338462, Hemiplegia or paraplegia, 1.0
+216.30360054621133, Chronic pulmonary disease, 1.0
+227.08113023338302, CORONA_TEST, 2
+227.08113023338302, BUN, 1
+227.08113023338302, Rheumatic disease, 1.0
+264.6869606558145, Dementia, 1.0
+264.6869606558145, LAC_SER, 1
+264.6869606558145, HCT, 1
+264.6869606558145, ESR, 1

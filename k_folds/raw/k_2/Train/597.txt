@@ -1,0 +1,19 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,597
+0.0, Gender, 2
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 71.174680116617
+6.105323151441472, Rheumatic disease, 1.0
+11.518819185448004, Peripheral vascular disease, 1.0
+11.518819185448004, LAC_SER, 1
+11.518819185448004, Peptic ulcer disease, 1.0
+11.518819185448004, Diabetes with complications, 1.0
+11.518819185448004, FLU_TEST, 2
+26.020504899240688, BIL_TOT, 1
+26.020504899240688, Metastatic solid tumor, 1.0
+46.807634016810056, IL6, 2
+46.807634016810056, Troponin T, 1
+46.807634016810056, Hemiplegia or paraplegia, 1.0
+46.807634016810056, C19_TEST, 1

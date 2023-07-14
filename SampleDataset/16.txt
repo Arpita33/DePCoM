@@ -1,0 +1,11 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,16
+0.0, Gender, 0
+0.0, Race, 5
+0.0, Ethnicity, 2
+0.0, Age, 60.19783049603608
+24.714851927871255, AST, 0
+24.714851927871255, LYMPH_PERC, 1
+67.90763857027493, Chronic pulmonary disease, 1.0
+112.59955663721274, PT, 1

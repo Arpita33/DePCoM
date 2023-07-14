@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,173
+0.0, Gender, 2
+0.0, Race, 0
+0.0, Ethnicity, 1
+0.0, Age, 34.648237573745064
+0, IL6, 1
+0, CK, 2
+2.81993601605825, ALKP, 1

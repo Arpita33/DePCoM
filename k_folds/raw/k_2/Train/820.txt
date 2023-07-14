@@ -1,0 +1,11 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,820
+0.0, Gender, 0
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 52.14549629144596
+0, Dementia, 1.0
+0, FIBR, 0
+0, PT, 1
+13.978395708528367, Rheumatic disease, 1.0

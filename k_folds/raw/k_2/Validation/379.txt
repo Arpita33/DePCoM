@@ -1,0 +1,9 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,379
+0.0, Gender, 0
+0.0, Race, 7
+0.0, Ethnicity, 0
+0.0, Age, 64.56191960499194
+28.800650461670728, CORONA_TEST, 0
+48.980381524459304, Troponin I, 0

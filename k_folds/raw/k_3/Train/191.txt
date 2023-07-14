@@ -1,0 +1,12 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,191
+0.0, Gender, 0
+0.0, Race, 3
+0.0, Ethnicity, 0
+0.0, Age, 5.540790462204897
+0, LYMPH_NUM, 1
+4.434657977979006, PT, 2
+17.311874835613494, Congestive heart failure, 1.0
+36.433155382027856, ALT, 2
+36.433155382027856, Moderate or severe liver disease, 1.0

@@ -1,0 +1,23 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,480
+0.0, Gender, 1
+0.0, Race, 5
+0.0, Ethnicity, 2
+0.0, Age, 12.252834566709522
+0, Diabetes with complications, 1.0
+0, Any malignancy, 1.0
+1.507921098470072, LDH, 0
+1.507921098470072, CREAT, 0
+13.581133132414164, Dementia, 1.0
+13.581133132414164, LAC_SER, 0
+13.581133132414164, Moderate or severe liver disease, 1.0
+45.77598194848778, Mild liver disease, 1.0
+59.50073446759251, Cerebrovascular disease, 1.0
+97.00728905414837, FLU_TEST, 0
+97.00728905414837, Moderate or severe liver disease, 1.0
+128.90883020945162, FLU_TEST, 1
+128.90883020945162, D-Dimer, 1
+128.90883020945162, PROCALC, 0
+134.3073437818259, Peptic ulcer disease, 1.0
+155.10795049277675, CREAT, 2

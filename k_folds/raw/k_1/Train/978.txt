@@ -1,0 +1,13 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,978
+0.0, Gender, 0
+0.0, Race, 0
+0.0, Ethnicity, 0
+0.0, Age, 82.59102044632562
+0, LYMPH_PERC, 0
+32.343577761397476, PROCALC, 2
+75.20790335157153, D-Dimer, 2
+75.20790335157153, Congestive heart failure, 1.0
+105.36891349875015, D-Dimer FEU, 0
+130.90535408040844, D-Dimer, 1

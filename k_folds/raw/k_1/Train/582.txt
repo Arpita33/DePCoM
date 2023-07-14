@@ -1,0 +1,10 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,582
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 0
+0.0, Age, 9.05587231751452
+38.689686190650505, Rheumatic disease, 1.0
+77.79295730708046, HCT, 2
+77.79295730708046, LYMPH_PERC, 1

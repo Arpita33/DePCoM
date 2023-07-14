@@ -1,0 +1,9 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,60
+0.0, Gender, 0
+0.0, Race, 6
+0.0, Ethnicity, 0
+0.0, Age, 60.55951997329025
+0, BIL_TOT, 2
+0, INR, 0

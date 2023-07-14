@@ -1,0 +1,17 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,203
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 57.972176980080405
+7.558559685354976, FLU_TEST, 0
+7.558559685354976, Myocardial infarction, 1.0
+7.558559685354976, AIDS/HIV, 1.0
+27.093450278242365, Dementia, 1.0
+38.631544439437924, Chronic pulmonary disease, 1.0
+38.631544439437924, Chronic pulmonary disease, 1.0
+83.7468468831944, WBC_NUM, 0
+89.01071493035175, Metastatic solid tumor, 1.0
+97.796817481578, ALT, 2
+143.02546052465883, HCT, 2

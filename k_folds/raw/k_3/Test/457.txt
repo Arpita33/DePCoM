@@ -1,0 +1,12 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,457
+0.0, Gender, 0
+0.0, Race, 1
+0.0, Ethnicity, 0
+0.0, Age, 11.164816192022284
+28.029402725472664, ESR, 1
+28.029402725472664, Rheumatic disease, 1.0
+28.029402725472664, D-Dimer, 2
+28.029402725472664, Any malignancy, 1.0
+35.73821980933108, D-Dimer FEU, 1

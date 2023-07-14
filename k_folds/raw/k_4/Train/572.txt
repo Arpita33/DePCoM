@@ -1,0 +1,25 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,572
+0.0, Gender, 2
+0.0, Race, 7
+0.0, Ethnicity, 2
+0.0, Age, 75.78100302071508
+0, ALB_SER, 1
+36.088920062503455, CORONA_TEST, 0
+47.01480445759981, Myocardial infarction, 1.0
+54.56355665560019, ALT, 2
+54.56355665560019, CREAT, 1
+54.56355665560019, ALB_SER, 0
+91.54714733561454, Congestive heart failure, 1.0
+94.44126177024266, Hemiplegia or paraplegia, 1.0
+142.22854106073962, PLT, 1
+142.22854106073962, Hemiplegia or paraplegia, 1.0
+174.94996313864584, Moderate or severe liver disease, 1.0
+218.23411682761767, Congestive heart failure, 1.0
+244.4800698758146, LYMPH_NUM, 2
+251.43228074857572, Metastatic solid tumor, 1.0
+278.924099593567, AIDS/HIV, 1.0
+278.924099593567, HGB, 2
+310.5122855379808, Cerebrovascular disease, 1.0
+310.5122855379808, Moderate or severe liver disease, 1.0

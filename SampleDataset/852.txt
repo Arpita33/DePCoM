@@ -1,0 +1,25 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,852
+0.0, Gender, 1
+0.0, Race, 7
+0.0, Ethnicity, 2
+0.0, Age, 57.317256104207836
+0, Diabetes without complications, 1.0
+30.058350066705668, Any malignancy, 1.0
+30.058350066705668, CRP, 0
+45.187648307553346, Rheumatic disease, 1.0
+90.24484405641171, Peptic ulcer disease, 1.0
+104.84246829297177, BUN, 0
+104.84246829297177, C19_TEST, 2
+104.84246829297177, LYMPH_PERC, 1
+114.7574178611286, Moderate or severe liver disease, 1.0
+136.97527648641542, Peptic ulcer disease, 1.0
+136.97527648641542, PLT, 0
+150.1666010447562, Congestive heart failure, 1.0
+150.1666010447562, CRP_S, 1
+162.67616425125817, LYMPH_NUM, 0
+162.67616425125817, Diabetes with complications, 1.0
+162.67616425125817, Dementia, 1.0
+181.01912000932774, BIL_TOT, 0
+194.7547908402231, Metastatic solid tumor, 1.0

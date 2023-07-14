@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,99
+0.0, Gender, 1
+0.0, Race, 4
+0.0, Ethnicity, 2
+0.0, Age, 80.59622678737117
+36.74548539269629, ALKP, 1
+79.05300984389902, BIL_DIR, 0
+86.90971229996724, Troponin T, 1

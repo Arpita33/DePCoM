@@ -1,0 +1,29 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,569
+0.0, Gender, 0
+0.0, Race, 5
+0.0, Ethnicity, 2
+0.0, Age, 59.251209333197586
+0, CREAT, 0
+0, Diabetes without complications, 1.0
+47.81006846277337, aPTT, 1
+47.81006846277337, FLU_TEST, 1
+63.947830210151444, FIBR, 1
+95.26699766810302, CRP, 0
+95.26699766810302, Renal disease, 1.0
+95.26699766810302, CK, 1
+118.3652617762046, Troponin T, 1
+127.95152112031454, Myocardial infarction, 1.0
+127.95152112031454, LDH, 2
+138.33330515018494, BUN, 1
+159.46724194947083, Rheumatic disease, 1.0
+159.46724194947083, CREAT, 2
+164.72292221760492, Rheumatic disease, 1.0
+183.92271519264497, Congestive heart failure, 1.0
+183.92271519264497, Troponin T, 0
+183.92271519264497, Metastatic solid tumor, 1.0
+223.14950588435053, Cerebrovascular disease, 1.0
+261.20767198297705, BIL_TOT, 1
+261.20767198297705, Myocardial infarction, 1.0
+283.4446413536817, Peripheral vascular disease, 1.0

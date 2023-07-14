@@ -1,0 +1,15 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,534
+0.0, Gender, 2
+0.0, Race, 5
+0.0, Ethnicity, 0
+0.0, Age, 11.827220678323213
+0, FLU_TEST, 0
+0, ALT, 1
+0, PLT, 0
+32.99644347693469, Diabetes with complications, 1.0
+32.99644347693469, PLT, 0
+60.05165484279577, CORONA_TEST, 0
+60.05165484279577, HGB, 2
+60.05165484279577, Myocardial infarction, 1.0

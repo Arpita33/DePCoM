@@ -1,0 +1,17 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,175
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 2
+0.0, Age, 53.72639193723062
+10.667535110484833, Congestive heart failure, 1.0
+34.58240067297063, LYMPH_NUM, 1
+78.18503142002322, Moderate or severe liver disease, 1.0
+78.18503142002322, CK, 2
+117.33259825737028, PT, 1
+117.33259825737028, Any malignancy, 1.0
+117.33259825737028, Dementia, 1.0
+137.41495190166333, Cerebrovascular disease, 1.0
+171.40664519016516, BIL_TOT, 0
+192.68267014596404, ALB_SER, 1

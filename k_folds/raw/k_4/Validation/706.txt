@@ -1,0 +1,27 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,706
+0.0, Gender, 2
+0.0, Race, 2
+0.0, Ethnicity, 2
+0.0, Age, 63.2968864050856
+0, FIBR, 2
+19.446335191635335, ALT, 2
+19.446335191635335, PT, 0
+25.75788984304891, AST, 0
+25.75788984304891, Moderate or severe liver disease, 1.0
+55.64826268603501, Mild liver disease, 1.0
+55.64826268603501, Troponin T, 0
+56.14157085595314, Renal disease, 1.0
+56.14157085595314, LAC_SER, 2
+71.32709140135465, Cerebrovascular disease, 1.0
+71.32709140135465, FLU_TEST, 0
+116.37052655692719, CRP, 1
+116.37052655692719, PROCALC, 1
+148.51371520996707, Cerebrovascular disease, 1.0
+158.75886306518595, Peripheral vascular disease, 1.0
+190.86815089100327, Moderate or severe liver disease, 1.0
+196.95215730772534, PT, 1
+198.49928635761646, Diabetes with complications, 1.0
+225.59929243001687, Myocardial infarction, 1.0
+246.93825565671995, FERR, 1

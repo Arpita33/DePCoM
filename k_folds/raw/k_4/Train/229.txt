@@ -1,0 +1,16 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,229
+0.0, Gender, 2
+0.0, Race, 1
+0.0, Ethnicity, 1
+0.0, Age, 70.56555770455597
+24.704062383911385, PROT_TOT, 2
+41.14671750289749, Hemiplegia or paraplegia, 1.0
+46.06263623221143, ALKP, 0
+90.0664118614966, Any malignancy, 1.0
+90.0664118614966, D-Dimer DDU, 2
+90.0664118614966, Mild liver disease, 1.0
+90.0664118614966, ALT, 0
+99.87928974639519, D-Dimer, 1
+101.5947138994965, Peptic ulcer disease, 1.0

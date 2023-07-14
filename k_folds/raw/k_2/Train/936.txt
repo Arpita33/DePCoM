@@ -1,0 +1,12 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,936
+0.0, Gender, 0
+0.0, Race, 7
+0.0, Ethnicity, 0
+0.0, Age, 83.2519362836226
+20.57660964327374, LAC_SER, 0
+20.57660964327374, Renal disease, 1.0
+25.966101559658632, Diabetes without complications, 1.0
+48.921452123257914, Diabetes without complications, 1.0
+81.64499327615556, Cerebrovascular disease, 1.0

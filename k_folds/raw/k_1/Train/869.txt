@@ -1,0 +1,13 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,869
+0.0, Gender, 0
+0.0, Race, 4
+0.0, Ethnicity, 0
+0.0, Age, 8.073842198482351
+0, LDH, 2
+13.886710077190944, LYMPH_NUM, 2
+15.05604893543292, PT, 1
+15.05604893543292, LAC_SER, 1
+15.05604893543292, Any malignancy, 1.0
+15.05604893543292, Diabetes with complications, 1.0

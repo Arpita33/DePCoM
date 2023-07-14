@@ -1,0 +1,17 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,578
+0.0, Gender, 2
+0.0, Race, 5
+0.0, Ethnicity, 1
+0.0, Age, 65.3315711210898
+0, aPTT, 0
+0, CREAT, 2
+27.25313207547242, Diabetes with complications, 1.0
+27.25313207547242, Rheumatic disease, 1.0
+27.25313207547242, Peripheral vascular disease, 1.0
+27.25313207547242, Hemiplegia or paraplegia, 1.0
+27.25313207547242, LAC_SER, 0
+27.25313207547242, Any malignancy, 1.0
+27.25313207547242, CK, 1
+36.44694008872723, Myocardial infarction, 1.0

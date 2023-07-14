@@ -1,0 +1,9 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,341
+0.0, Gender, 0
+0.0, Race, 7
+0.0, Ethnicity, 1
+0.0, Age, 2.3967149960405854
+3.043441097107802, C19_TEST, 0
+3.043441097107802, Cerebrovascular disease, 1.0

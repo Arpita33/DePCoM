@@ -1,0 +1,28 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,304
+0.0, Gender, 1
+0.0, Race, 0
+0.0, Ethnicity, 2
+0.0, Age, 43.7708466621571
+0, FIBR, 2
+7.837873536033108, ALKP, 0
+7.837873536033108, CORONA_TEST, 0
+48.655447258920056, Diabetes without complications, 1.0
+94.50491817564844, Renal disease, 1.0
+137.36925555795136, FERR, 2
+187.00876900400047, Diabetes with complications, 1.0
+201.1489368506885, CORONA_TEST, 0
+201.1489368506885, D-Dimer FEU, 0
+201.1489368506885, CRP_S, 2
+206.28275044393968, ALT, 2
+206.28275044393968, Chronic pulmonary disease, 1.0
+238.88043761781395, Metastatic solid tumor, 1.0
+240.4542092733529, CK, 2
+240.4542092733529, Congestive heart failure, 1.0
+240.4542092733529, Moderate or severe liver disease, 1.0
+240.4542092733529, Diabetes with complications, 1.0
+240.4542092733529, Moderate or severe liver disease, 1.0
+242.9564818510207, AIDS/HIV, 1.0
+242.9564818510207, Renal disease, 1.0
+269.65957484400906, D-Dimer FEU, 0

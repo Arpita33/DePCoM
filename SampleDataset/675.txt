@@ -1,0 +1,10 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,675
+0.0, Gender, 2
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 3.378703216122657
+0, FERR, 1
+13.517612915421301, LAC_SER, 1
+13.517612915421301, PT, 0

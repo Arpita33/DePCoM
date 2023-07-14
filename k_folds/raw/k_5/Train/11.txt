@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,11
+0.0, Gender, 0
+0.0, Race, 1
+0.0, Ethnicity, 0
+0.0, Age, 33.04179404757088
+0, aPTT, 2
+3.094237203959349, Diabetes with complications, 1.0
+3.094237203959349, CRP, 0

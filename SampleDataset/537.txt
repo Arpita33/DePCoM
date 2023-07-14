@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,537
+0.0, Gender, 2
+0.0, Race, 6
+0.0, Ethnicity, 0
+0.0, Age, 36.12593396366221
+0, Chronic pulmonary disease, 1.0
+0, Troponin T, 1
+0, HGB, 1

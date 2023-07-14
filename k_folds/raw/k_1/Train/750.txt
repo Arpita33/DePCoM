@@ -1,0 +1,16 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,750
+0.0, Gender, 1
+0.0, Race, 7
+0.0, Ethnicity, 1
+0.0, Age, 53.13890128548634
+0, Moderate or severe liver disease, 1.0
+0, Metastatic solid tumor, 1.0
+0.2807140827031207, Moderate or severe liver disease, 1.0
+21.806560805922242, D-Dimer FEU, 2
+21.806560805922242, CRP_S, 1
+38.094531143791485, ALT, 0
+38.094531143791485, Metastatic solid tumor, 1.0
+38.094531143791485, BIL_TOT, 0
+43.52975506540958, PT, 2

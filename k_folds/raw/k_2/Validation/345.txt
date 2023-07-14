@@ -1,0 +1,13 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,345
+0.0, Gender, 0
+0.0, Race, 1
+0.0, Ethnicity, 0
+0.0, Age, 66.32622928640359
+21.85316678490586, BIL_TOT, 2
+21.85316678490586, Metastatic solid tumor, 1.0
+21.85316678490586, Diabetes with complications, 1.0
+21.85316678490586, Mild liver disease, 1.0
+71.12005497993482, Cerebrovascular disease, 1.0
+71.12005497993482, D-Dimer, 2

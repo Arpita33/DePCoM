@@ -1,0 +1,13 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,713
+0.0, Gender, 1
+0.0, Race, 6
+0.0, Ethnicity, 2
+0.0, Age, 52.629621452577965
+0, BUN, 0
+0, LYMPH_PERC, 1
+0, Peripheral vascular disease, 1.0
+0, IL6, 2
+19.671363673726933, PROT_TOT, 0
+19.671363673726933, PROCALC, 1

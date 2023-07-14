@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,239
+0.0, Gender, 1
+0.0, Race, 4
+0.0, Ethnicity, 1
+0.0, Age, 33.77352318904596
+26.274857695411814, Any malignancy, 1.0
+29.754309606989565, LYMPH_NUM, 0
+29.754309606989565, ALB_SER, 1

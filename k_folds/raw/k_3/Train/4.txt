@@ -1,0 +1,19 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,4
+0.0, Gender, 0
+0.0, Race, 1
+0.0, Ethnicity, 1
+0.0, Age, 18.754082089953908
+0, C19_TEST, 1
+0, Diabetes without complications, 1.0
+0, Any malignancy, 1.0
+0, HGB, 1
+20.029232994686165, Renal disease, 1.0
+20.029232994686165, D-Dimer DDU, 0
+20.029232994686165, CRP_S, 1
+53.51242288845677, Hemiplegia or paraplegia, 1.0
+61.860207672645096, Moderate or severe liver disease, 1.0
+61.860207672645096, ALT, 1
+91.56120320333342, Mild liver disease, 1.0
+91.56120320333342, BIL_TOT, 1

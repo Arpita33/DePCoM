@@ -1,0 +1,8 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,761
+0.0, Gender, 1
+0.0, Race, 4
+0.0, Ethnicity, 0
+0.0, Age, 7.294576724408019
+15.098323334233, HCT, 0

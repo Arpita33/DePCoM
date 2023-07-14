@@ -1,0 +1,11 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,786
+0.0, Gender, 2
+0.0, Race, 2
+0.0, Ethnicity, 1
+0.0, Age, 67.95333690815995
+8.772839150328887, Peripheral vascular disease, 1.0
+13.47658748913642, LDH, 2
+19.18486076137698, D-Dimer DDU, 2
+19.18486076137698, D-Dimer, 0

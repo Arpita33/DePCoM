@@ -1,0 +1,13 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,41
+0.0, Gender, 2
+0.0, Race, 6
+0.0, Ethnicity, 1
+0.0, Age, 24.164233809755302
+0, CREAT, 0
+0, Troponin T, 1
+0, Cerebrovascular disease, 1.0
+17.022096854146152, CRP, 0
+17.022096854146152, Metastatic solid tumor, 1.0
+60.75272915296158, PT, 1

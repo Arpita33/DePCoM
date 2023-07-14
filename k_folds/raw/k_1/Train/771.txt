@@ -1,0 +1,12 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,771
+0.0, Gender, 2
+0.0, Race, 2
+0.0, Ethnicity, 0
+0.0, Age, 59.37371157500188
+0, Hemiplegia or paraplegia, 1.0
+16.745960151386857, LYMPH_PERC, 2
+16.745960151386857, PLT, 1
+16.745960151386857, ESR, 2
+47.29354637375483, BIL_TOT, 0

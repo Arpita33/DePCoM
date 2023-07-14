@@ -1,0 +1,14 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,217
+0.0, Gender, 0
+0.0, Race, 2
+0.0, Ethnicity, 2
+0.0, Age, 10.059374860572095
+0, AIDS/HIV, 1.0
+0, ALB_SER, 2
+11.518005246112084, FERR, 0
+38.10507789428223, Mild liver disease, 1.0
+38.10507789428223, AST, 0
+38.10507789428223, Cerebrovascular disease, 1.0
+38.10507789428223, Renal disease, 1.0

@@ -1,0 +1,16 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,471
+0.0, Gender, 0
+0.0, Race, 6
+0.0, Ethnicity, 0
+0.0, Age, 8.146152193489373
+0, CK, 2
+0, D-Dimer DDU, 1
+0, ESR, 2
+30.03012115592314, HGB, 2
+30.03012115592314, C19_TEST, 0
+30.03012115592314, Troponin I, 2
+30.03012115592314, ALKP, 1
+30.03012115592314, Chronic pulmonary disease, 1.0
+66.22217306043422, Chronic pulmonary disease, 1.0

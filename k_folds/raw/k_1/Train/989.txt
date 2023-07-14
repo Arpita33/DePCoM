@@ -1,0 +1,16 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,989
+0.0, Gender, 0
+0.0, Race, 3
+0.0, Ethnicity, 2
+0.0, Age, 17.73274635037969
+44.63833323645655, BUN, 1
+72.58577458556671, Mild liver disease, 1.0
+79.4311180474556, CREAT, 2
+79.4311180474556, Moderate or severe liver disease, 1.0
+112.27296979933993, CREAT, 1
+149.9210904071116, INR, 2
+149.9210904071116, Peptic ulcer disease, 1.0
+149.9210904071116, Metastatic solid tumor, 1.0
+157.37269896136158, Dementia, 1.0

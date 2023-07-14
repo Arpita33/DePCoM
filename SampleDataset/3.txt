@@ -1,0 +1,15 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,3
+0.0, Gender, 0
+0.0, Race, 0
+0.0, Ethnicity, 1
+0.0, Age, 9.046298610931096
+0, CRP, 1
+0, PT, 2
+0, Troponin T, 2
+0, LYMPH_NUM, 2
+22.049521500583648, Troponin T, 1
+39.11552094890202, WBC_NUM, 0
+56.21057612766528, AST, 0
+97.34443858241298, LDH, 0

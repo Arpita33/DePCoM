@@ -1,0 +1,15 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,705
+0.0, Gender, 2
+0.0, Race, 5
+0.0, Ethnicity, 1
+0.0, Age, 81.94814750411983
+0, ALB_SER, 0
+0, Peripheral vascular disease, 1.0
+0, Hemiplegia or paraplegia, 1.0
+26.448663469356674, D-Dimer FEU, 1
+26.448663469356674, ALB_SER, 2
+26.448663469356674, CORONA_TEST, 1
+26.448663469356674, PROCALC, 0
+26.448663469356674, BIL_TOT, 1

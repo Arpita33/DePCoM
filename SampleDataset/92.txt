@@ -1,0 +1,28 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,92
+0.0, Gender, 1
+0.0, Race, 2
+0.0, Ethnicity, 1
+0.0, Age, 4.912773807858646
+0, FERR, 0
+0, Cerebrovascular disease, 1.0
+4.240962145143701, Diabetes without complications, 1.0
+24.569341360725208, LDH, 0
+24.569341360725208, ESR, 0
+69.56546769833295, PLT, 0
+69.56546769833295, LYMPH_NUM, 1
+95.74356474250553, FERR, 1
+95.74356474250553, PROT_TOT, 2
+95.74356474250553, Diabetes with complications, 1.0
+143.43928495589864, Any malignancy, 1.0
+143.43928495589864, Mild liver disease, 1.0
+143.43928495589864, Hemiplegia or paraplegia, 1.0
+143.43928495589864, Hemiplegia or paraplegia, 1.0
+143.43928495589864, aPTT, 1
+149.762065115747, LDH, 1
+190.539247516175, AIDS/HIV, 1.0
+237.00757580048224, Moderate or severe liver disease, 1.0
+237.00757580048224, Diabetes without complications, 1.0
+247.15389609527557, Cerebrovascular disease, 1.0
+253.5015759952671, Chronic pulmonary disease, 1.0

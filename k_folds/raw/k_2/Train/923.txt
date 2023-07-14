@@ -1,0 +1,12 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,923
+0.0, Gender, 1
+0.0, Race, 2
+0.0, Ethnicity, 2
+0.0, Age, 61.41244551575567
+7.311190218339542, Diabetes with complications, 1.0
+7.311190218339542, Renal disease, 1.0
+16.385010393749752, WBC_NUM, 2
+57.34421843733866, ALKP, 0
+100.4583657897316, Moderate or severe liver disease, 1.0

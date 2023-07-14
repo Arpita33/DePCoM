@@ -1,0 +1,13 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,161
+0.0, Gender, 0
+0.0, Race, 0
+0.0, Ethnicity, 1
+0.0, Age, 73.26493985262098
+16.37743761048779, Moderate or severe liver disease, 1.0
+45.764489499539586, CK, 2
+80.20447026736088, LDH, 1
+117.94883559012652, Cerebrovascular disease, 1.0
+117.94883559012652, FIBR, 0
+121.37383838592228, Chronic pulmonary disease, 1.0

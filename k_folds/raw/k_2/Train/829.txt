@@ -1,0 +1,15 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,829
+0.0, Gender, 0
+0.0, Race, 7
+0.0, Ethnicity, 2
+0.0, Age, 75.21098032538703
+0, ALB_SER, 0
+45.95396486822793, Troponin I, 2
+63.47438583020309, Cerebrovascular disease, 1.0
+63.47438583020309, Diabetes without complications, 1.0
+63.47438583020309, Renal disease, 1.0
+67.22709618587865, BUN, 0
+67.22709618587865, Dementia, 1.0
+67.22709618587865, D-Dimer FEU, 0

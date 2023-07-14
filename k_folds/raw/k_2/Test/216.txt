@@ -1,0 +1,10 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,216
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 0
+0.0, Age, 17.572046734318462
+0, BIL_TOT, 1
+38.0128007087135, BUN, 2
+38.0128007087135, WBC_NUM, 0

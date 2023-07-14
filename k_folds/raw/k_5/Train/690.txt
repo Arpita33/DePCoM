@@ -1,0 +1,11 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,690
+0.0, Gender, 1
+0.0, Race, 5
+0.0, Ethnicity, 2
+0.0, Age, 17.534771354149356
+13.959316669854804, LDH, 2
+13.959316669854804, ALB_SER, 2
+53.27203903396605, Metastatic solid tumor, 1.0
+53.27203903396605, AIDS/HIV, 1.0

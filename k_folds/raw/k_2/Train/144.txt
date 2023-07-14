@@ -1,0 +1,9 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,144
+0.0, Gender, 0
+0.0, Race, 6
+0.0, Ethnicity, 2
+0.0, Age, 27.59518433921647
+36.84195706076201, PROCALC, 1
+36.84195706076201, ALT, 2

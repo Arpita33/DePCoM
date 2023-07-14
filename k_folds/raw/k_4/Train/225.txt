@@ -1,0 +1,10 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,225
+0.0, Gender, 0
+0.0, Race, 5
+0.0, Ethnicity, 2
+0.0, Age, 70.43891397915063
+7.904967560011761, aPTT, 1
+25.04036057149532, FERR, 2
+65.34737416550472, Cerebrovascular disease, 1.0

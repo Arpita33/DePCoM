@@ -1,0 +1,8 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,152
+0.0, Gender, 1
+0.0, Race, 7
+0.0, Ethnicity, 0
+0.0, Age, 67.6063899545768
+32.485395318621364, Rheumatic disease, 1.0

@@ -1,0 +1,11 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,475
+0.0, Gender, 1
+0.0, Race, 5
+0.0, Ethnicity, 1
+0.0, Age, 63.800999948363135
+0, PROCALC, 2
+15.566802224532307, PROT_TOT, 2
+51.209954754830534, Dementia, 1.0
+51.209954754830534, Troponin I, 0

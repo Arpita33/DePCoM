@@ -1,0 +1,10 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,516
+0.0, Gender, 2
+0.0, Race, 5
+0.0, Ethnicity, 1
+0.0, Age, 19.850035989746786
+0, C19_TEST, 0
+15.368448495523602, Chronic pulmonary disease, 1.0
+15.368448495523602, LDH, 1

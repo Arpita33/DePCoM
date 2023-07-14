@@ -1,0 +1,9 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,804
+0.0, Gender, 2
+0.0, Race, 0
+0.0, Ethnicity, 2
+0.0, Age, 72.28816856045592
+41.25588062909408, Diabetes with complications, 1.0
+41.25588062909408, Troponin I, 2

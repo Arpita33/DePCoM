@@ -1,0 +1,14 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,916
+0.0, Gender, 0
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 28.29214527105544
+0, Hemiplegia or paraplegia, 1.0
+26.61860041214546, Cerebrovascular disease, 1.0
+26.61860041214546, PT, 1
+45.40172198717285, WBC_NUM, 2
+59.339337190831145, CREAT, 1
+59.339337190831145, FERR, 0
+96.05928581964866, FIBR, 0

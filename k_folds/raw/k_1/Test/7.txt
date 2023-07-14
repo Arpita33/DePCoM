@@ -1,0 +1,8 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,7
+0.0, Gender, 1
+0.0, Race, 3
+0.0, Ethnicity, 2
+0.0, Age, 78.84750722794278
+0, Peptic ulcer disease, 1.0

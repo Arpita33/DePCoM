@@ -1,0 +1,27 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,383
+0.0, Gender, 2
+0.0, Race, 7
+0.0, Ethnicity, 0
+0.0, Age, 47.281740070581684
+0, HGB, 1
+0, PLT, 1
+0, CRP_S, 0
+0, D-Dimer, 2
+0, BIL_DIR, 2
+0, CK, 0
+0, FIBR, 1
+0, LDH, 0
+0, C19_TEST, 0
+0, D-Dimer, 0
+1.151024925691957, Troponin I, 0
+13.046916244536716, PROCALC, 1
+13.311219485609849, Moderate or severe liver disease, 1.0
+13.311219485609849, BUN, 0
+13.311219485609849, aPTT, 0
+13.311219485609849, LYMPH_PERC, 0
+13.311219485609849, Mild liver disease, 1.0
+13.311219485609849, Diabetes without complications, 1.0
+13.311219485609849, IL6, 0
+13.311219485609849, D-Dimer FEU, 0

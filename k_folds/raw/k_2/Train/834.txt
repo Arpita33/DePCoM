@@ -1,0 +1,9 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,834
+0.0, Gender, 0
+0.0, Race, 5
+0.0, Ethnicity, 1
+0.0, Age, 75.97729725744273
+0, FIBR, 2
+0, C19_TEST, 0

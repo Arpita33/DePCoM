@@ -1,0 +1,15 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,212
+0.0, Gender, 2
+0.0, Race, 6
+0.0, Ethnicity, 0
+0.0, Age, 19.881253201036934
+0, Dementia, 1.0
+0, WBC_NUM, 2
+19.05380902624927, PROCALC, 2
+65.64293278151916, Hemiplegia or paraplegia, 1.0
+98.12469458509125, FIBR, 2
+141.27244139800393, D-Dimer FEU, 2
+141.27244139800393, LDH, 0
+141.27244139800393, Moderate or severe liver disease, 1.0

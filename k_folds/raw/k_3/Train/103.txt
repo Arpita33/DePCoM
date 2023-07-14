@@ -1,0 +1,14 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,103
+0.0, Gender, 2
+0.0, Race, 3
+0.0, Ethnicity, 1
+0.0, Age, 44.80627844614309
+0, Congestive heart failure, 1.0
+1.7700437108214118, LYMPH_NUM, 0
+1.7700437108214118, ALKP, 1
+38.40784286094516, LAC_SER, 1
+50.028266591515575, Peripheral vascular disease, 1.0
+84.17981343193276, AIDS/HIV, 1.0
+84.17981343193276, Peptic ulcer disease, 1.0

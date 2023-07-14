@@ -1,0 +1,11 @@
+DEATH_FLAG=1
+Time, Parameter, Value
+0.0,RecordID,846
+0.0, Gender, 1
+0.0, Race, 2
+0.0, Ethnicity, 2
+0.0, Age, 46.51828067050744
+40.265155100855026, Troponin I, 2
+59.53661924599152, D-Dimer DDU, 2
+59.53661924599152, FLU_TEST, 0
+85.81628376287928, Mild liver disease, 1.0

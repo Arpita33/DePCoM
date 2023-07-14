@@ -1,0 +1,11 @@
+DEATH_FLAG=0
+Time, Parameter, Value
+0.0,RecordID,656
+0.0, Gender, 1
+0.0, Race, 7
+0.0, Ethnicity, 2
+0.0, Age, 3.05079584824791
+7.753532702874233, Chronic pulmonary disease, 1.0
+7.753532702874233, CORONA_TEST, 1
+35.50955186314644, INR, 0
+35.50955186314644, Troponin T, 0
