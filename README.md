@@ -22,7 +22,6 @@ Use this code to generate the sample data:
 
 ```
 python data_generator.py
-
 ```
 ## Training and testing the model
 
