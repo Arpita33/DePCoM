@@ -30,8 +30,7 @@ The script.py file contains code for training and testing the model.
 
 ```
 python ./script.py --batch-size 100 --hidden-dims 20 --num-layers 3 --dropout 0 --lr 0.01 --epochs 50 --exp-no 1 --k 2
-
-'''
+```
 
 
 
